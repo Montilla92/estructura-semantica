@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+.azul {
+    background-color: blue;
+}
+.altura1 {
+    height: 100px;
+}
+.centrar {
+    display: flex;
+    justify-content: center;
+}
+button {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+.altura2 {
+    height: 80px;
+}
+.altura3 {
+    height: 150px;
+}
+.rosado {
+    background-color: pink;
+}
+.verde {
+    background-color: green;
+}
